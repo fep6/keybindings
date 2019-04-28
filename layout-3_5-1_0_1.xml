@@ -95,7 +95,7 @@
    <rebind input="kb1_f5"/>
   </action>
   <action name="v_self_destruct">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="spaceship_view">
@@ -109,7 +109,7 @@
    <rebind input="kb1_ralt+down"/>
   </action>
   <action name="v_view_freelook_mode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_look_behind">
    <rebind input="kb1_lalt+comma"/>
@@ -142,7 +142,7 @@
    <rebind input="js1_ "/>
   </action>
   <action name="v_autoland">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_brake">
@@ -155,10 +155,10 @@
    <rebind input="kb1_lalt+o"/>
   </action>
   <action name="v_ifcs_toggle_gforce_safety">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_ifcs_toggle_speed_limiter">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_ifcs_toggle_vector_decoupling">
    <rebind input="kb1_c"/>
@@ -224,7 +224,7 @@
    <rebind input="js2_rotz"/>
   </action>
   <action name="v_target_match_vel">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_toggle_landing_system">
    <rebind input="kb1_m"/>
@@ -234,7 +234,7 @@
    <rebind input="kb1_np_subtract"/>
   </action>
   <action name="v_toggle_qdrive_spooling">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_toggle_relative_mouse_mode">
    <rebind input="kb1_lalt+comma"/>
@@ -423,7 +423,7 @@
  </actionmap>
  <actionmap name="spaceship_weapons">
   <action name="v_attack1_group1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_attack1_group2">
@@ -715,121 +715,121 @@
  </actionmap>
  <actionmap name="zero_gravity_eva">
   <action name="eva_boost">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_brake">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_pitch_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+s"/>
   </action>
   <action name="eva_pitch_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lealt+w"/>
   </action>
   <action name="eva_roll_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_roll_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_forward">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_lateral">
    <rebind input="kb1_"/>
    <addbind input="kb1_maxis_z"/>
   </action>
   <action name="eva_strafe_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_longitudinal">
    <rebind input="kb1_"/>
    <addbind input="kb1_maxis_z"/>
   </action>
   <action name="eva_strafe_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_strafe_vertical">
    <rebind input="kb1_"/>
    <addbind input="kb1_maxis_z"/>
   </action>
   <action name="eva_toggle_headlook_mode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_view_pitch_down">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="eva_view_pitch_up">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="eva_view_yaw_left">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="eva_view_yaw_right">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="eva_yaw_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="eva_yaw_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="vehicle_general">
   <action name="mobiglas">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_attack1_group1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_attack1_group2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_doors_close_all">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_doors_lock_all">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_doors_open_all">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_doors_unlock_all">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_exit">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_flightready">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_horn">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_starmap">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_cycle_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_look_behind">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_pitch_mouse">
    <rebind input="mo1_maxis_x"/>
@@ -838,39 +838,39 @@
    <rebind input="mo1_maxis_y"/>
   </action>
   <action name="v_view_zoom_in">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_zoom_out">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="vehicle_driver">
   <action name="v_attack1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_attack2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_brake">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_move">
    <rebind input="mo1_maxis_y"/>
   </action>
   <action name="v_move_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_move_forward">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_roll_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_roll_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_view_dynamic_focus">
    <rebind input="kb1_maxis_y"/>
@@ -879,35 +879,35 @@
    <rebind input="mo1_maxis_x"/>
   </action>
   <action name="v_yaw_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_yaw_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="vehicle_gunner">
   <action name="v_attack1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_attack2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
  </actionmap>
  <actionmap name="spectator">
   <action name="spectate_gen_nextmode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="spectate_gen_prevmode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="spectate_next_target">
-   <rebind defaultInput="mouse2" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse2" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="spectate_prev_target">
-   <rebind defaultInput="mouse1" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse1" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="spectate_rotatepitch">
@@ -927,345 +927,311 @@
    <rebind input="js1_ "/>
   </action>
   <action name="spectate_toggle_hud">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="spectate_toggle_lock_target">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="spectate_zoom_in">
-   <rebind defaultInput="mwheel_up" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_up" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="spectate_zoom_out">
-   <rebind defaultInput="mwheel_down" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_down" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
  </actionmap>
  <actionmap name="default">
   <action name="focus_on_chat_textinput">
-   <rebind defaultInput="np_enter" input="kb1_np_multiply"/>
+   <rebind defaultInput="np_enter" input="kb1_ "/>
   </action>
   <action name="foip_pushtoheadtrack">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="foip_pushtotalk">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="foip_viewownplayer">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="respawn">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="toggle_chat">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="toggle_contact">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="ui_notification">
   <action name="ui_notification_accept">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="ui_notification_decline">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="ui_notification_ignore">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="player_emotes">
   <action name="emote_agree">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_angry">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_atease">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_attention">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_blah">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_bored">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_bow">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_burp">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_cheer">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_chicken">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_clap">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_come">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_cry">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_cs_forward">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_cs_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_cs_no">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_cs_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_cs_stop">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_cs_yes">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="emote_dance">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_disagree">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_failure">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_flex">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_flirt">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_gasp">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_gloat">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_greet">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_laugh">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_launch">
-   <rebind input="kb1_np_multiply"/>
   </action>
   <action name="emote_point">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_rude">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_salute">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_sit">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_sleep">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_smell">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_taunt">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_threaten">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_wait">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_wave">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
   <action name="emote_whistle">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
   </action>
  </actionmap>
  <actionmap name="player_choice">
   <action name="pc_focus">
-   <rebind defaultInput="mouse3" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse3" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="pc_interaction_mode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="pc_personal_thought">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="pc_screen_focus_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="pc_screen_focus_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="pc_screen_focus_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="pc_screen_focus_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="pc_select">
-   <rebind defaultInput="mouse1" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse1" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="pc_throw_decrease">
-   <rebind defaultInput="mouse2" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse2" input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="pc_zoom_in">
-   <rebind defaultInput="mwheel_up" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_up" input="kb1_ "/>
   </action>
   <action name="pc_zoom_out">
-   <rebind defaultInput="mwheel_down" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_down" input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="view_director_mode">
   <action name="view_enable_camview_mode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_fov_in">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_fov_out">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_fstop_in">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_fstop_out">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_3">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_4">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_5">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_6">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_7">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_8">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_load_view_9">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_X_neg">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_X_pos">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_Y_neg">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_Y_pos">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_Z_neg">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_move_target_Z_pos">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_reset_saved">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_restore_defaults">
-   <rebind input="kb1_np_subtract"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_3">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_4">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_5">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_6">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_7">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_8">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_save_view_9">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="view_switch_to_alternative">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
 </ActionMaps>
