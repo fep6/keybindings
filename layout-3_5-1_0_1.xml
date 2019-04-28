@@ -489,64 +489,64 @@
  </actionmap>
  <actionmap name="spaceship_power">
   <action name="v_power_focus_group_1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_1"/>
   </action>
   <action name="v_power_focus_group_2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_2"/>
   </action>
   <action name="v_power_focus_group_3">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_3"/>
   </action>
   <action name="v_power_reset_focus">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_0"/>
   </action>
   <action name="v_power_throttle_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+np_4"/>
   </action>
   <action name="v_power_throttle_max">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+np_5"/>
   </action>
   <action name="v_power_throttle_min">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+np_4"/>
   </action>
   <action name="v_power_throttle_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+np_5"/>
   </action>
   <action name="v_power_toggle">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_f6"/>
   </action>
   <action name="v_power_toggle_group_1">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_4"/>
   </action>
   <action name="v_power_toggle_group_2">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_5"/>
   </action>
   <action name="v_power_toggle_group_3">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_6"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_radar">
   <action name="v_radar_cycle_zoom_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_comma"/>
   </action>
   <action name="v_radar_toggle_active_or_passive">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_period"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_hud">
   <action name="mobiglas">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_hud_open_scoreboard">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_starmap">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="lights_controller">
   <action name="v_lights">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="player">
@@ -557,160 +557,160 @@
    <rebind input="kb1_mouse1"/>
   </action>
   <action name="attack1">
-   <rebind defaultInput="mouse1" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse1" input="kb1_ "/>
   </action>
   <action name="combatheal">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="crouch">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="drop">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="fixed_speed_decrement">
-   <rebind input="kb1_b"/>
-   <rebind defaultInput="mwheel_down" input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
+   <rebind defaultInput="mwheel_down" input="kb1_ "/>
   </action>
   <action name="fixed_speed_increment">
    <rebind input="kb1_lshift"/>
-   <rebind defaultInput="mwheel_up" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_up" input="kb1_ "/>
   </action>
   <action name="force_respawn">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="free_thirdperson_camera">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="grenade">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="holster">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="inspect">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="jump">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="leanleft">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="leanright">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="mobiglas">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="moveback">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="moveforward">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="moveleft">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="moveright">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="nextweapon">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="pl_hud_open_scoreboard">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="port_modification_select">
    <rebind input="kb1_mouse4"/>
-   <rebind defaultInput="mouse1" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse1" input="kb1_ "/>
   </action>
   <action name="prevweapon">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="prone">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="refillgastank">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="reload">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="selectUtilityItem">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="selectgadget">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="selectpistol">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="selectprimary">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="selectsecondary">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="shop_camera_zoom_in">
-   <rebind input="kb1_?"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="shop_camera_zoom_out">
-   <rebind input="kb1_?"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="sprint">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="stabilize">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="thirdperson">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="toggle_flashlight">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_eject">
-   <rebind input="kb1_?"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_eject_cinematic">
-   <rebind input="kb1_?"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_starmap">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="walk">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="weapon_change_firemode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="weapon_melee">
-   <rebind defaultInput="mouse3" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse3" input="kb1_ "/>
   </action>
   <action name="zoom">
-   <rebind defaultInput="mouse2" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse2" input="kb1_ "/>
   </action>
   <action name="zoom_in">
-   <rebind defaultInput="mwheel_up" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_up" input="kb1_ "/>
   </action>
   <action name="zoom_in_out">
    <rebind input="kb1_"/>
-   <addbind input="kb1_np_multiply"/>
+   <addbind input="kb1_ "/>
   </action>
   <action name="zoom_out">
-   <rebind defaultInput="mwheel_down" input="kb1_np_multiply"/>
+   <rebind defaultInput="mwheel_down" input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="prone">
   <action name="prone_rollleft">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="prone_rollright">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="zero_gravity_eva">
