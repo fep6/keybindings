@@ -336,88 +336,88 @@
  </actionmap>
  <actionmap name="spaceship_scanning">
   <action name="v_scanning_trigger_scan">
-   <rebind defaultInput="mouse1" input="kb1_np_multiply"/>
+   <rebind defaultInput="mouse1" input="kb1_slash"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_ping">
   <action name="v_dec_ping_focus_angle">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_pgdn"/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_inc_ping_focus_angle">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_pgup"/>
    <rebind input="js1_ "/>
   </action>
  </actionmap>
  <actionmap name="spaceship_mining">
   <action name="v_decrease_mining_throttle">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_increase_mining_throttle">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_toggle_mining_laser_fire">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_toggle_mining_laser_type">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
  </actionmap>
  <actionmap name="spaceship_turret">
   <action name="v_aim_pitch_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
   <action name="v_aim_pitch_mouse">
    <rebind input="mo1_maxis_x"/>
   </action>
   <action name="v_aim_pitch_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
   <action name="v_aim_yaw_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
   <action name="v_aim_yaw_mouse">
    <rebind input="mo1_maxis_y"/>
   </action>
   <action name="v_aim_yaw_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
   <action name="v_target_cycle_all_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_k"/>
   </action>
   <action name="v_target_cycle_all_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_i"/>
   </action>
   <action name="v_target_cycle_friendly_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_j"/>
   </action>
   <action name="v_target_cycle_friendly_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_cycle_hostile_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_h"/>
   </action>
   <action name="v_target_cycle_hostile_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_cycle_subitem_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_cycle_subitem_fwd">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_focus_root_entity">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_nearest_hostile">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_target_reticle_focus">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_target_toggle_pinned_focused">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_p"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_weapons">
