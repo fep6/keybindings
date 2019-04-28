@@ -138,7 +138,7 @@
  </actionmap>
  <actionmap name="spaceship_movement">
   <action name="v_afterburner">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_autoland">
@@ -146,13 +146,13 @@
    <rebind input="js1_ "/>
   </action>
   <action name="v_brake">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ralt+x"/>
   </action>
   <action name="v_ifcs_toggle_cruise_control">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_v"/>
   </action>
   <action name="v_ifcs_toggle_esp">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+o"/>
   </action>
   <action name="v_ifcs_toggle_gforce_safety">
    <rebind input="kb1_np_multiply"/>
@@ -161,92 +161,92 @@
    <rebind input="kb1_np_multiply"/>
   </action>
   <action name="v_ifcs_toggle_vector_decoupling">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_c"/>
   </action>
   <action name="v_pitch_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+s"/>
   </action>
   <action name="v_pitch_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+z"/>
   </action>
   <action name="v_roll_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+q"/>
   </action>
   <action name="v_roll_mouse">
-   <rebind input="kb1_maxis_x"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_roll_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+d"/>
   </action>
   <action name="v_speed_range_abs">
-   <rebind input="mo1_maxis_z"/>
+   <rebind input="js1_slider1"/>
   </action>
   <action name="v_speed_range_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_speed_range_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_strafe_back">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_down">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_forward">
-   <rebind input="kb1_np_multiply"/>
-   <rebind input="js1_ "/>
+   <rebind input="kb1_ "/>
+   <rebind input="js2_slider1"/>
   </action>
   <action name="v_strafe_lateral">
    <rebind input="js2_x"/>
   </action>
   <action name="v_strafe_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_longitudinal">
-   <rebind input="js1_z"/>
+   <rebind input="js2_y"/>
   </action>
   <action name="v_strafe_longitudinal_invert">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
   </action>
   <action name="v_strafe_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_up">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ "/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_strafe_vertical">
-   <rebind input="js1_slider1"/>
+   <rebind input="js2_rotz"/>
   </action>
   <action name="v_target_match_vel">
    <rebind input="kb1_np_multiply"/>
   </action>
   <action name="v_toggle_landing_system">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_m"/>
    <rebind input="js1_ "/>
   </action>
   <action name="v_toggle_qdrive_engagement">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_np_subtract"/>
   </action>
   <action name="v_toggle_qdrive_spooling">
    <rebind input="kb1_np_multiply"/>
   </action>
   <action name="v_toggle_relative_mouse_mode">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+comma"/>
   </action>
   <action name="v_toggle_yaw_roll_swap">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_ralt+period"/>
   </action>
   <action name="v_yaw_left">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+q"/>
   </action>
   <action name="v_yaw_right">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_lalt+d"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_targeting">
