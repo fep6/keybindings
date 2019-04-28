@@ -250,6 +250,7 @@
   </action>
  </actionmap>
  <actionmap name="spaceship_targeting">
+     // Modifier
   <action name="v_aim_pitch_down">
    <rebind input="kb1_"/>
   </action>
