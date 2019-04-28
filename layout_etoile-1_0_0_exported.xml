@@ -130,10 +130,10 @@
    <rebind input="kb1_"/>
   </action>
   <action name="v_view_zoom_in">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
   <action name="v_view_zoom_out">
-   <rebind input="kb1_np_multiply"/>
+   <rebind input="kb1_"/>
   </action>
  </actionmap>
  <actionmap name="spaceship_movement">
